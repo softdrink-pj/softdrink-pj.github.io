@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Blog</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Fri, 02 Feb 2024 17:33:40 +0700</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Membuat Game Mobil Balap Javascript</title>
+      <link>https://example.org/posts/membuat-game-mobil-balap-javascript/</link>
+      <pubDate>Fri, 02 Feb 2024 17:33:40 +0700</pubDate>
+      <guid>https://example.org/posts/membuat-game-mobil-balap-javascript/</guid>
+      <description>Assalamu&amp;rsquo;alaikum warahmatullahi wabarakatuh.&#xA;Apa kabar semua. Pada kesempatan kali ini saya mau membagikan tutorial cara membuat game mobil balap sederhana menggunakan canvas javascript.&#xA;Sebelum memulai tutorial, siapkan beberapa tools yang akan digunakan seperti code editor, web browser, dan web server (opsional).&#xA;Buat folder project untuk menampung file dan assets dari game yang akan kita buat. Nama folder bebas. Disarankan disimpan didalam folder htdocs (Windows) atau /var/www/html (Linux).&#xA;Langkah Pertama: Membuat Canvas Langkah pertama yaitu membuat canvas sebagai media dari game yang akan kita buat.</description>
+    </item>
+  </channel>
+</rss>
