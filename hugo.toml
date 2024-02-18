@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://softdrink.com/'
 languageCode = 'id-id'
-title = 'My Blog'
+title = 'SoftDrink Dev'
 theme = 'ananke'
