@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Blog</title>
-    <link>https://example.org/</link>
-    <description>Recent content on My Blog</description>
+    <title>MyArchive</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on MyArchive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
-    <lastBuildDate>Fri, 02 Feb 2024 17:33:40 +0700</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Feb 2024 20:53:42 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Menggunakan Tema Blankslate Wordpress</title>
+      <link>http://localhost:1313/posts/blankslate-wordpress-theme/</link>
+      <pubDate>Mon, 26 Feb 2024 20:53:42 +0700</pubDate>
+      <guid>http://localhost:1313/posts/blankslate-wordpress-theme/</guid>
+      <description>Assalamu&amp;rsquo;alaikum warahmatullahi wabarakatuh.&#xA;Apa kabar semua. Pada kesempatan kali ini saya mau membagikan sedikit pengalaman dan tips &amp;rsquo;n trick cara menggunakan tema Blankslate.&#xA;Apa Itu Tema Blankslate? Blankslate merupakan salah satu tema Wordpress yang dikembangkan oleh Bryan Hadaway.&#xA;Blankslate merupakan tema Wordpress yang masih plain atau blank atau raw, jadi tema ini masih polos, hanya ada plain html yang sudah di reset css.&#xA;Bagaimana Cara Menggunakannya? Berbeda dengan tema Wordpress yang lainnya, cara men-customize tema Blankslate tidak drag &amp;rsquo;n drop seperti kebanyakan tema wordpress melainkan kita harus mengcustom css-nya secara manual atau bisa menggunakan framework css seperti Bootstrap 5 atau Tailwind CSS.</description>
+    </item>
     <item>
       <title>Membuat Game Mobil Balap Javascript</title>
-      <link>https://example.org/posts/membuat-game-mobil-balap-javascript/</link>
+      <link>http://localhost:1313/posts/game-mobil-balap-javascript/</link>
       <pubDate>Fri, 02 Feb 2024 17:33:40 +0700</pubDate>
-      <guid>https://example.org/posts/membuat-game-mobil-balap-javascript/</guid>
+      <guid>http://localhost:1313/posts/game-mobil-balap-javascript/</guid>
       <description>Assalamu&amp;rsquo;alaikum warahmatullahi wabarakatuh.&#xA;Apa kabar semua. Pada kesempatan kali ini saya mau membagikan tutorial cara membuat game mobil balap sederhana menggunakan canvas javascript.&#xA;Sebelum memulai tutorial, siapkan beberapa tools yang akan digunakan seperti code editor, web browser, dan web server (opsional).&#xA;Buat folder project untuk menampung file dan assets dari game yang akan kita buat. Nama folder bebas. Disarankan disimpan didalam folder htdocs (Windows) atau /var/www/html (Linux).&#xA;Langkah Pertama: Membuat Canvas Langkah pertama yaitu membuat canvas sebagai media dari game yang akan kita buat.</description>
     </item>
   </channel>

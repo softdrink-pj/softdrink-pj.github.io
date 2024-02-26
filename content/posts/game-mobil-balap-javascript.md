@@ -2,6 +2,10 @@
 title = 'Membuat Game Mobil Balap Javascript'
 date = 2024-02-02T17:33:40+07:00
 draft = false
+
+featured_image = 'img/post-thumbnail/default.png'
+description = 'Tutorial singkat cara membuat game mobil balap menggunakan vanila Javascript.'
+
 toc = true
 +++
 
@@ -89,7 +93,7 @@ let myGameArea = {
 
 Kurang lebih seperti ini hasilnya.
 
-![Screenshot 1](/img/membuat-game-mobil-balap-javascript_01.png)
+![Screenshot 1](/img/game-mobil-balap-javascript/gambar-1.png)
 
 ## Langkah Kedua: Membuat Game Component
 
@@ -136,7 +140,7 @@ function startGame() {
 
 Kurang lebih seperti ini hasilnya.
 
-![Screenshot 2](/img/membuat-game-mobil-balap-javascript_02.png)
+![Screenshot 2](/img/game-mobil-balap-javascript/gambar-2.png)
 
 Anggap saja kotak merah tersebut adalah mobil yang akan kita gunakan dalam game 😅.
 
@@ -560,7 +564,7 @@ function updateGameArea() {
 
 Kurang lebih seperti ini hasilnya.
 
-![Screenshot 3](/img/membuat-game-mobil-balap-javascript_03.png)
+![Screenshot 3](/img/game-mobil-balap-javascript/gambar-3.png)
 
 ## Langkah Ketujuh: Menambahkan Gambar
 
